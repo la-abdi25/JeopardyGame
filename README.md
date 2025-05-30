@@ -1,1 +1,1 @@
-# JeopardyGame
+# Jeopardy Game
