@@ -6,7 +6,7 @@
 <h3>Live question fetching using the JService Api for data retrieval</h3>
 <h3>Generating game board dynamically using DOM manipulation</h3>
 <h3>Event handling for clue selection, random category generation, and revealing corresponding answers</h3>
-<h3>Live question fetching using the JService Api</h3>
+
 
 
 
