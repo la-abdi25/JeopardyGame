@@ -27,7 +27,7 @@
 <h2>How To Get Started</h2>
 <ol>
   <li>git clone https://github.com/la-abdi25/JeopardyGame.git</li>
-  <li>Open the index.html file, run the file in the browser of your choice/li>
+  <li>Open the index.html file, run the file in the browser of your choice</li>
   <li>For any CORS errors, please download the CORS chrome extension to play the game: 
     Allow CORS: Access-Control-Allow-Origin
     Easily add (Access-Control-Allow-Origin: *) rule to the response header.</li>
