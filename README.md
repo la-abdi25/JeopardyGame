@@ -1,6 +1,6 @@
 # Jeopardy Game - (Desktop-Only)
 <h2>Description</h2>
-<h3>A dynamic and interactive Jeopardy game with random category generation built using HTML5, CSS3, and JavaScript(ES6+) optimized for desktop browsers only.</h3>
+<h3>A dynamic and interactive Jeopardy game with random category generation built using HTML5, CSS3, and JavaScript(ES6+) optimized for desktop browsers only</h3>
 
 <h2>Features</h2>
 <h3>Live question fetching using the JService API for data retrieval</h3>
