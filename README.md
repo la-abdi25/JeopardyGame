@@ -38,7 +38,7 @@
 <ul>
   <li>Click Start to generate a game board</li>
   <li>Choose a random category of choice</li>
-  <li>Click once on a dollar amount($100-$500) to reveal that categories question</li>
-  <li>Guess the answer, and double click on the same section to reveal the answer to see if you guessed correctly! </li>
+  <li>Click on a dollar amount($100-$500) to reveal that categories question</li>
+  <li>Guess the answer, and click again on the same section to reveal the answer to see if you guessed correctly! </li>
   <li>Click Restart to generate a new board</li>
 </ul>
