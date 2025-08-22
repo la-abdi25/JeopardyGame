@@ -77,7 +77,7 @@ th {
   flex-direction: row;
   justify-content: center;
   padding: 10px;
-  width: 13vw;
+  width: 15vw;
 }
 td {
   display: flex;
@@ -89,8 +89,8 @@ td {
   font-weight: bold;
   font-size: 20px;
   color: white;
-  width: auto;
-  height: 150px;
+  width: 15vw;
+  height: 35vh;
 }
 td:hover {
   background-color: navy;
