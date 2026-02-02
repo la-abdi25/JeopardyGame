@@ -2,14 +2,15 @@
 <h2>Description</h2>
 <h4>A dynamic and interactive Jeopardy game with random category generation built using HTML5, CSS3, and JavaScript(ES6+) optimized for desktop browsers only</h4>
 
+<h2>Live Demo</h2>
+<p>Check out the deployed app: <a href="https://jeopardygameapp.netlify.app/" target="_blank">Jeopardy Game</a></p>
+
 <h2>Features</h2>
 <ul>
 <li>Live question fetching using the JService API for data retrieval</li>
 <li>Generating game board dynamically using DOM manipulation</li>
 <li>Event handling for clue selection, random category generation, and revealing corresponding answers</li>
 </ul>
-
-
 
 <h2>Tech Stack</h2>
 <ul>
