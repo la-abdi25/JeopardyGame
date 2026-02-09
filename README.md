@@ -1,6 +1,6 @@
 # Jeopardy Game - (Desktop-Only)
 <h2>Description</h2>
-<h4>A dynamic and interactive Jeopardy game with random category generation built using HTML5, CSS3, and JavaScript(ES6+) optimized for desktop browsers only</h4>
+<p>A dynamic and interactive Jeopardy game with random category generation built using HTML5, CSS3, and JavaScript(ES6+) optimized for desktop browsers only</p>
 
 <h2>Live Demo</h2>
 <p>Check out the deployed app: <a href="https://jeopardygameapp.netlify.app/" target="_blank">Jeopardy Game</a></p>
